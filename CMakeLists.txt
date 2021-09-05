@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.21)
 # Initialise project
 project("Modern C++ Template"
         VERSION 0.1.0.0
-        DESCRIPTION "A starting point for your C++ projects"
+        DESCRIPTION "A starting point for my C++ project"
         HOMEPAGE_URL "https://github.com/MyCatFishSteve/modern-cpp-template"
         LANGUAGES "CXX")
 
